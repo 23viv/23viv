@@ -33,28 +33,10 @@
 
 ---
 
-## ✨ Fun Intro
+## ✨ Just a Vibe
 
-<p align="center" style="font-size: 1.1rem; color:#79c0ff;">
-  <code><span id="typed"></span></code>
-</p>
-
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-<script>
-  if (typeof window !== 'undefined') {
-    var typed = new Typed('#typed', {
-      strings: [
-        "Just curious, forever learning…",
-        "Building AI systems that think.",
-        "Backend dev by day, Gen AI explorer by night.",
-        "Prompt engineer crafting magic."
-      ],
-      typeSpeed: 40,
-      backSpeed: 30,
-      loop: true
-    });
-  }
-</script>
+> *“Learning never exhausts the mind. But debugging at 2 AM might.”*  
+> – Me, probably while sipping chai and refactoring.
 
 ---
 
