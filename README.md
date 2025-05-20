@@ -29,6 +29,11 @@
   <img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb" alt="MongoDB" title="MongoDB" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-Django-000?&logo=django" alt="Django" title="Django" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-NLP-000?&logo=spacy" alt="NLP" title="NLP" style="margin: 0 5px;"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-316192?&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" style="margin: 0 5px;"/>
+<img src="https://img.shields.io/badge/-LangChain-000000?&logo=langchain&logoColor=white" alt="LangChain" title="LangChain" style="margin: 0 5px;"/>
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?&logo=scikit-learn&logoColor=white" alt="scikit-learn" title="scikit-learn" style="margin: 0 5px;"/>
+<img src="https://img.shields.io/badge/-Hugging%20Face-FF6C37?&logo=huggingface&logoColor=white" alt="Hugging Face" title="Hugging Face" style="margin: 0 5px;"/>
+<img src="https://img.shields.io/badge/-GROQ-000000?&logo=groq&logoColor=white" alt="GROQ" title="GROQ" style="margin: 0 5px;"/>
 </p>
 
 ---
