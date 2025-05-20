@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-PyTorch-000?&logo=pytorch" alt="PyTorch" title="PyTorch" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb" alt="MongoDB" title="MongoDB" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-Django-000?&logo=django" alt="Django" title="Django" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/-NLP-000?&logo=nltk" alt="NLP" title="NLP" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-NLP-000?&logo=spacy" alt="NLP" title="NLP" style="margin: 0 5px;"/>
 </p>
 
 ---
