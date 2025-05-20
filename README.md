@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/-Python-000?&logo=python&logoColor=yellow" alt="Python" title="Python" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-Python-000?&logo=python" alt="Python" title="Python" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&logoColor=orange" alt="TensorFlow" title="TensorFlow" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-PyTorch-000?&logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" style="margin: 0 5px;"/>
