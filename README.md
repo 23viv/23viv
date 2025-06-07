@@ -4,7 +4,7 @@
 <h1 align="center" style="color:#58a6ff;">Hey there, I'm <span style="color:#79c0ff;">Vivek</span> 👋</h1>
 
 <p align="center" style="font-style: italic; font-size: 1.2rem; color:#8b949e;">
-  AIML Enthusiast | Backend Dev | Gen AI Explorer | Prompt Engineer
+  AIML Enthusiast | Backend Dev | Gen AI Explorer | Prompt Engineer | ML Engineer
 </p>
 
 ---
