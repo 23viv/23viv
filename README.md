@@ -51,10 +51,7 @@
   <a href="mailto:vivekkapri5@gmail.com" style="color:#58a6ff; text-decoration:none; margin-right:15px;" title="Email me">
     📧 Email
   </a>
-  |
-  <a href="https://linkedin.com/in/23viv" style="color:#58a6ff; text-decoration:none; margin-left:15px;" title="LinkedIn">
-    🔗 LinkedIn
-  </a>
+  
 </p>
 
 ---
