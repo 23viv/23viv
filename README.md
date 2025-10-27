@@ -29,11 +29,17 @@
   <img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-Django-000?&logo=django&logoColor=white" alt="Django" title="Django" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-NLP-000?&logo=spacy&logoColor=white" alt="NLP" title="NLP" style="margin: 0 5px;"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-316192?&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" style="margin: 0 5px;"/>
-<img src="https://img.shields.io/badge/-LangChain-000000?&logo=langchain&logoColor=white" alt="LangChain" title="LangChain" style="margin: 0 5px;"/>
-<img src="https://img.shields.io/badge/-scikit--learn-F7931E?&logo=scikit-learn&logoColor=white" alt="scikit-learn" title="ML" style="margin: 0 5px;"/>
-<img src="https://img.shields.io/badge/-Hugging%20Face-FF6C37?&logo=huggingface&logoColor=white" alt="Hugging Face" title="Hugging Face" style="margin: 0 5px;"/>
-<img src="https://img.shields.io/badge/-GROQ-000000?&logo=groq" alt="GROQ" title="GROQ" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-LangChain-000000?&logo=langchain&logoColor=white" alt="LangChain" title="LangChain" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?&logo=scikit-learn&logoColor=white" alt="scikit-learn" title="ML" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-Hugging%20Face-FF6C37?&logo=huggingface&logoColor=white" alt="Hugging Face" title="Hugging Face" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-GROQ-000000?&logo=groq" alt="GROQ" title="GROQ" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?&logo=streamlit&logoColor=white" alt="Streamlit" title="Streamlit" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?&logo=flask&logoColor=white" alt="Flask" title="Flask" style="margin: 0 5px;"/>
+
+
+
 </p>
 
 ---
