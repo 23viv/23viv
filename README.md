@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Python-000?&logo=python" alt="Python" title="Python" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-Django-000?&logo=django&logoColor=white" alt="Django" title="Django" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-316192?&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-LangChain-000000?&logo=langchain&logoColor=white" alt="LangChain" title="LangChain" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?&logo=scikit-learn&logoColor=white" alt="scikit-learn" title="Sklearn" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-GROQ-000000?&logo=groq" alt="GROQ" title="GROQ" style="margin: 0 5px;"/>
