@@ -42,7 +42,6 @@
 ## ✨ Just a Vibe
 
 > *“Learning never exhausts the mind. But debugging at 2 AM might.”*  
-> – Me, probably while sipping chai and refactoring.
 
 ---
 
