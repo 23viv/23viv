@@ -12,10 +12,9 @@
 ## 🚀 About Me
 
 <ul>
-  <li>🧠 Passionate about building intelligent systems and exploring Generative AI.</li>
-  <li>💻 Backend ninja, currently dancing with Django and wrangling MongoDB.</li>
-  <li>🤖 Fluent in ML, DL, and NLP – my neural nets rarely forget 😉</li>
-  <li>🔍 Motto? <q style="color:#79c0ff;">Just curious</q>. Curiosity fuels everything.</li>
+  <li> Passionate about AI and its potential use cases.</li>
+  <li> Just a guy who loves exploring and reading</li>
+  <li>Motto? <q style="color:#79c0ff;">Just curious</q>. Curiosity fuels everything.</li>
 </ul>
 
 ---
