@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-LangChain-000000?&logo=langchain&logoColor=white" alt="LangChain" title="LangChain" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?&logo=scikit-learn&logoColor=white" alt="scikit-learn" title="Sklearn" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/-GROQ-000000?&logo=groq" alt="GROQ" title="GROQ" style="margin: 0 5px;"/>
+  
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?&logo=streamlit&logoColor=white" alt="Streamlit" title="Streamlit" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/-Flask-000000?&logo=flask&logoColor=white" alt="Flask" title="Flask" style="margin: 0 5px;"/>
