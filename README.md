@@ -1,69 +1,70 @@
-# Hey, I'm Vivek 👋
+<!-- Dark background color -->
+<div style="background-color:#0d1117; color:#c9d1d9; padding: 2rem; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-**AI/ML Engineering Student · Backend Developer · Curious by default**
+<h1 align="center" style="color:#58a6ff;">Hey there, I'm <span style="color:#79c0ff;">Vivek</span> 👋</h1>
 
-I like building things, understanding how they work, and exploring where AI can be useful.
-
-- 🤖 Exploring AI/ML, LLMs, and agentic systems
-- ⚙️ Building backend services with Go and Python
-- 📚 Always learning something new
-
----
-
-### Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,go,js" alt="Python, Go, JavaScript" />
-
-**Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mongodb" alt="FastAPI, Django, PostgreSQL, MongoDB" />
-
-**AI / ML & Tools**
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith" />
-<img src="https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=langfuse&logoColor=white" alt="Langfuse" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/FastMCP-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="FastMCP" />
+<p align="center" style="font-style: italic; font-size: 1.2rem; color:#8b949e;">
+  Just a guy who likes Tech stuff
+</p>
 
 ---
 
-### A little more about me
+## 🚀 About Me
 
-<details>
-<summary>🧠 What I'm interested in</summary>
-
-- Building useful AI applications
-- Designing backend systems and microservices
-- Understanding how LLMs and AI agents work
-- Exploring new technologies just because I'm curious
-
-</details>
-
-<details>
-<summary>🎯 What I'm working towards</summary>
-
-Becoming an engineer who can build reliable backend systems and turn AI ideas into useful products.
-
-</details>
+<ul>
+  <li> Backend and AI </li>
+  <li> Just a guy who loves exploring and reading</li>
+  <li>Motto? <q style="color:#79c0ff;">Just curious</q>. Curiosity fuels everything.</li>
+</ul>
 
 ---
 
-### GitHub Activity
+## 🛠️ Tech Stack & Tools
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/-Python-000?&logo=python" alt="Python" title="Python" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?&logo=go&logoColor=white" alt="Go" title="Go" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-FastMCP-4B8BBE?&logo=python&logoColor=white" alt="FastMCP" title="FastMCP" style="margin: 0 5px;"/>
+  
+  <img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" style="margin: 0 5px;"/>
+  
+  <img src="https://img.shields.io/badge/-LangChain-000000?&logo=langchain&logoColor=white" alt="LangChain" title="LangChain" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?&logo=scikit-learn&logoColor=white" alt="scikit-learn" title="Sklearn" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?&logo=langchain&logoColor=white" alt="LangGraph" title="LangGraph" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-Langfuse-000000?&logo=langfuse&logoColor=white" alt="Langfuse" title="Langfuse" style="margin: 0 5px;"/>
+  
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?&logo=streamlit&logoColor=white" alt="Streamlit" title="Streamlit" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-Django-000?&logo=django&logoColor=white" alt="Django" title="Django" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/-FastMCP-4B8BBE?&logo=python&logoColor=white" alt="FastMCP" title="FastMCP" style="margin: 0 5px;"/>
+
+
+
+</p>
 
 ---
 
-### Connect
+## ✨ Just a Vibe
 
-[📧 Email me](mailto:vivekkapri5@gmail.com) · [🐙 GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+> *“Learning never exhausts the mind. But debugging at 2 AM might.”*  
 
-*Built with curiosity, coffee, and the occasional debugging session.*
+---
+
+## 📫 Let's Connect
+
+<p>
+  <a href="mailto:vivekkapri5@gmail.com" style="color:#58a6ff; text-decoration:none; margin-right:15px;" title="Email me">
+    📧 Email
+  </a>
+  
+</p>
+
+---
+
+<p align="center" style="color:#8b949e; font-size:0.9rem;">
+  Made with ❤️ and curiosity | Anime & Code addict 🌀
+</p>
+
+</div>  
